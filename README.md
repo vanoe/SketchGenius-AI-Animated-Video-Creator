@@ -15,6 +15,8 @@ Anyone can create professional-quality videos without design or technical skills
 
 ## 🗂️ Scheme
 
+<img src="./img/img-1.png" alt="Scheme">
+
 
 ---
 
