@@ -72,9 +72,51 @@ Anyone can create professional-quality videos without design or technical skills
     </table>
 </details>
 
-
 ## 🎬 Examples
 
+<details>
+    <summary>Screen recording</summary>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/081faad5-aad3-40d1-87bb-fcec2fa53996" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/f89b3850-edde-4790-9e51-052c4499ec7d" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/f3d48048-fd0c-48e2-b2b7-4d0072f19d80" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/b9d6a538-0d2b-40d5-a0e6-feedeb4f11a6" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/c5b51d79-fb78-43a2-8443-98c2a28cc5fa" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/e4030013-d137-4a79-8b92-b5bc22729ff8" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</details>
 
 
 ---
