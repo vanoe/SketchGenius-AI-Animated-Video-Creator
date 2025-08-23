@@ -114,10 +114,16 @@ Anyone can create professional-quality videos without design or technical skills
                     </video>
                 </td>
             </tr>
+            <tr>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/122b5f6f-7459-47a6-b553-22fc9acbf194" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+            </tr>
         </tbody>
     </table>
 </details>
-
 
 ---
 
