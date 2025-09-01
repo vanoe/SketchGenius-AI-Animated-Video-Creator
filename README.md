@@ -64,49 +64,58 @@ Perfect for **businesses, educators, and creators** looking to **boost engagemen
     </tbody>
 </table>
 
-## 🎬 Examples
+## 🎬 Video Examples
+
+### 🎬 Sketch Recording
 
 <table>
     <tbody>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/081faad5-aad3-40d1-87bb-fcec2fa53996" controls preload>
+                <video src="https://github.com/user-attachments/assets/25637f63-e92b-43a3-9cfb-c730f131d790" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/f89b3850-edde-4790-9e51-052c4499ec7d" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <video src="https://github.com/user-attachments/assets/f3d48048-fd0c-48e2-b2b7-4d0072f19d80" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td>
-                <video src="https://github.com/user-attachments/assets/b9d6a538-0d2b-40d5-a0e6-feedeb4f11a6" controls preload>
+                <video src="https://github.com/user-attachments/assets/49d3eea0-c6c3-42ab-a8b3-e6e8000fceec" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/c5b51d79-fb78-43a2-8443-98c2a28cc5fa" controls preload>
+                <video src="https://github.com/user-attachments/assets/87d5340b-de15-4926-8066-fa3c1be99e45" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/e4030013-d137-4a79-8b92-b5bc22729ff8" controls preload>
+                <video src="https://github.com/user-attachments/assets/6b8c9b72-71fd-432b-81fd-cf2bf041f11f" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/122b5f6f-7459-47a6-b553-22fc9acbf194" controls preload>
+                <video src="https://github.com/user-attachments/assets/60c583b9-d34a-4de1-88b3-cb6c89fb73cc" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/8ed3db2a-66f8-4693-9139-8e1d20e229ab" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### 🎬 Sketch Video
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/f6ef6744-afc2-450a-a822-4b9ee81e2fe9" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
