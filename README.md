@@ -1,15 +1,10 @@
 # 🎨 SketchGenius
 
-**SketchGenius** is an easy-to-use, AI-powered tool that helps turn text, images, or photos into eye-catching **sketch-style animated videos**. It offers multiple styles like 🖍️ crayon, ✏️ charcoal, 🖤 chalkboard, and 🗂️ blueprint, making content unique and engaging.
+**SketchGenius** is an easy-to-use, AI-powered tool that transforms **text, images, or photos** into **eye-catching sketch-style animated videos**. It offers multiple styles such as **🖍️ Crayon, ✏️ Charcoal, 🏫 Chalkboard, and 📐 Blueprint**, making your content unique and engaging.
 
-With built-in features such as:
-- 🗣️ Text-to-Speech
-- 🎙️ Speech-to-Text
-- 🌐 Language Translation
-- 🎶 Royalty-Free Images & Music
-- 🖱️ Drag-and-Drop Editor
+With built-in features like **text-to-speech (TTS), speech-to-text (STT), language translation 🌎, royalty-free images & music 🎵, and a simple drag-and-drop editor**, anyone can create **professional-quality videos** without design or technical skills.
 
-Anyone can create professional-quality videos without design or technical skills. Perfect for businesses, educators, and creators to boost engagement, explain ideas, or market products quickly and affordably.
+Perfect for **businesses, educators, and creators** looking to **boost engagement, explain ideas, or market products** quickly and affordably.
 
 ---
 
@@ -20,13 +15,13 @@ Anyone can create professional-quality videos without design or technical skills
 
 ---
 
-## 🧩 Technical Description
+## 🧩 Short Description
 
-*(Detailed technical description goes here, see “Process” and “Technologies” below)*
+**🎨 SketchGenius** is an AI-powered tool that turns **text, images, or photos** into **sketch-style animated videos** in minutes. Choose from styles like **🖍️ Crayon, ✏️ Charcoal, 🏫 Chalkboard, and 📐 Blueprint**, add **voiceovers, translations, and royalty-free media**, and create **professional videos** without any design skills. Perfect for **businesses, educators, and creators** who want to **engage audiences, explain ideas, or market products** quickly and affordably. 🚀
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Examples
 
 <table>
     <tbody>
@@ -121,96 +116,150 @@ Anyone can create professional-quality videos without design or technical skills
 
 ---
 
-## 📝 Full Description
+## 💡 Full Description
+<details>
+<summary>📖 Click to expand the Description</summary>
 
-### ❗ Problem
-Video marketing and digital storytelling have become critical for engagement, but producing high-quality animations is often expensive, time-consuming, and technically demanding. Challenges include:
-- 💸 High cost of hiring animators or freelancers
-- 🖥️ Complex software that requires advanced editing skills
-- 🎨 Limited creative flexibility with traditional tools
-- 🌎 Lack of multilingual support for global audiences
+### Problem
+Video marketing and digital storytelling are **critical for engagement**, but producing **high-quality animations** is often:
+- 💸 Expensive (hiring animators/freelancers)
+- 🖥️ Technically complex (advanced editing skills required)
+- 🎨 Creatively limiting (traditional tools lack flexibility)
+- 🌍 Limited in multilingual support
 
----
+### Solution
+**SketchGenius** provides a **one-stop platform** to create sketch-style animated videos **quickly and affordably**. Its **AI-driven workflow** automates:
+- Sketch rendering
+- Voiceover generation
+- Translation
+- Media integration
 
-### ✅ Solution
-SketchGenius provides a one-stop platform for creating **sketch-style animated videos** quickly and affordably.
-- 🧠 AI-driven workflow automates sketch rendering, voiceover generation, translation, and media integration.
-- ⏱️ Reduces production time from weeks to minutes.
-- 🌐 Delivers visually appealing, multilingual, and impactful content at scale.
-
----
-
-## ⚙️ Process
-
-### 1️⃣ Preprocessing
-- User inputs (text/images/scripts) are analyzed and segmented.
-- 🖌️ Auto color detection, background removal, and media optimization.
-- Subtitles, watermarks, and branding generated automatically.
-
-### 2️⃣ Text to Sketch Conversion Model (TSCM – Hybrid CNN + RNN)
-- CNNs for feature extraction
-- RNNs for sequential rendering
-- Maintains stylistic consistency across multiple themes (crayon, charcoal, chalkboard, blueprint)
-
-### 3️⃣ Data Augmentation Techniques
-- Synthetic text expansion
-- Multilingual paraphrasing
-- Image style variations
-
-### 4️⃣ Model Selection
-- Dynamic selection from library of pre-trained sketch & voice models
-- Reinforcement-driven ranking mechanism for optimal style, voice, and timing
-
-### 5️⃣ Smart Scene Builder (SSB – RNN + Transformer)
-- Combines RNNs for temporal sequencing with Transformer architectures
-- Ensures smooth transitions and consistent pacing
-
-### 6️⃣ Training and Validation
-- Multimodal datasets: image, text, sketch samples
-- Transfer learning & fine-tuning for new styles and languages
-- Stress tests: custom backgrounds, subtitles, and voice overlays
-
-### 7️⃣ Evaluation Metrics
-- ✅ Accuracy – faithfulness to text/input image
-- 🎨 Visual Quality – human feedback & automated scoring
-- 📊 Engagement Impact – viewer retention & interaction metrics
+✅ Reducing production time from **weeks to minutes** and enabling **multilingual, visually appealing, impactful content** at scale.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Process
 
-- **Computer Vision & Image Processing:** Photo-to-sketch conversion, style transfer
-- **NLP:** Text-to-speech, speech-to-text, multilingual translation
-- **Deep Learning:** CNNs, RNNs, Transformers
-- **Generative AI & Style Transfer:** Neural style transfer + reinforcement learning
-- **Speech Synthesis & Voice AI:** WaveNet/Tacotron-based narration, accents, translation
-- **Cloud-Native Infrastructure:** Docker/Kubernetes, GPU clusters
-- **Frameworks:** PyTorch, TensorFlow/Keras, OpenCV, FFmpeg, Hugging Face Transformers, gRPC & REST APIs
-- **Web:** React.js (frontend), Node.js + Express (backend)
+### Preprocessing
+- Analyze and segment **text, images, or uploaded scripts**
+- Auto **color detection, background removal, media optimization**
+- Generate **subtitles, watermarks, branding** for personalization
+
+### Text to Sketch Conversion Model (TSCM – Hybrid CNN + RNN)
+- **CNNs** for feature extraction
+- **RNNs** for sequential rendering
+- Transforms **semantic text inputs** into structured sketch scenes
+- Maintains **stylistic consistency** across **multiple visual themes**
+
+### Data Augmentation
+- **Synthetic text expansion**
+- **Multilingual paraphrasing**
+- **Image style variations**  
+  Ensures reliable performance across **marketing, education, product demos** while keeping **creative uniqueness**.
+
+### Model Selection
+- Dynamic selection from **pre-trained sketch & voice models**
+- Uses **reinforcement-driven ranking** to optimize:
+    - Visual style
+    - Narration voice
+    - Timing & personalization
+
+### Smart Scene Builder (SSB – RNN + Transformer)
+- Combines **RNNs** for temporal sequencing
+- Uses **Transformers** for contextual understanding
+- Produces **dynamic sketch animations** synchronized with narration
+
+### Training & Validation
+- Large multimodal datasets (image, text, sketch)
+- Transfer learning & fine-tuning for **new styles & languages**
+- Validated with **benchmark sets** for accuracy, timing alignment, and personalization
+
+### Text-to-Sketch Model Training (TTSMT – Transformer-based)
+- Transformer-based encoders map **semantic meaning to drawing actions**
+- Handles both **static scripts** & **dynamic content**
+
+### Model Validation
+- Out-of-distribution testing
+- Stress tests with **custom backgrounds, subtitles, voice overlays**
+- Optimized for **low-latency rendering**
+
+### Evaluation Metrics
+- **Accuracy:** Visual output vs input
+- **Visual Quality:** Human & automated scoring
+- **Engagement Impact:** Viewer retention & interaction
 
 ---
 
-## 📦 Datasets
+## ⚙️ Technologies
 
-- **Image–Sketch Datasets:** Sketchy Database, TU-Berlin, QuickDraw, custom proprietary datasets
-- **Speech & Text Datasets:** LibriSpeech, Common Voice (Mozilla), Multilingual TEDx, proprietary voices & accents
-- **Video Engagement Datasets:** Proprietary A/B testing data from beta tests
+### Computer Vision & Image Processing
+- Photo-to-sketch conversion, style transfer, auto-color detection
+- Large-scale **image–sketch paired datasets**
+
+### Natural Language Processing (NLP)
+- Powers **TTS, STT, multilingual translation**
+- Aligns **text scripts with video narration**
+
+### Deep Learning
+- **CNNs:** Feature extraction
+- **RNNs:** Sequential rendering
+- **Transformers:** Mapping text to visual actions
+
+### Generative AI & Style Transfer
+- Neural style transfer for **different sketch aesthetics**
+- Reinforcement learning ensures **frame consistency**
+
+### Speech Synthesis & Voice AI
+- WaveNet-style & Tacotron models
+- **Male/female voices, regional accents, translations**
+
+### Cloud Infrastructure
+- Docker + Kubernetes microservices
+- GPU clusters for **parallel HD rendering**
+
+### Frameworks
+- **PyTorch, TensorFlow/Keras** – training & inference
+- **OpenCV** – preprocessing
+- **FFmpeg** – rendering & export
+- **Hugging Face Transformers** – NLP
+- **gRPC & REST APIs** – integrations
+- **React.js & Node.js** – web interface & backend
+
+---
+
+## 📊 Datasets
+
+### Image–Sketch
+- **Sketchy Database:** 75,000+ pairs, 125 categories
+- **TU-Berlin Sketch Dataset:** 20,000+ sketches
+- **QuickDraw (Google):** 50M sketches
+
+### Speech & Text
+- **LibriSpeech ASR Corpus**
+- **Common Voice (Mozilla)**
+- **Multilingual TEDx**
+
+### Video Engagement
+- Proprietary A/B testing datasets (marketing & education)
 
 ---
 
 ## 🔮 Future Scope
-
-- 🎨 Expanded AI Styles: Watercolor, comic book, digital ink
-- 👥 Enhanced Collaboration: Real-time multi-user editing
-- 🕶️ AR/VR Integration: Immersive learning & marketing
-- 🛒 Marketplace Ecosystem: Share or sell custom templates and voices
-- 🗣️ Smarter AI Narration: Adaptive voiceovers with emotional tone & context-awareness
+- More **artistic styles**: Watercolor, comic, digital ink
+- **Real-time collaboration** for teams
+- **AR/VR integration** for immersive experiences
+- **Marketplace** for sketch templates & voices
+- **Adaptive AI narration** with emotional tone
 
 ---
 
 ## 📚 References
+- Guo et al., *GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking*
+- Shillingford et al., *The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies*
+- Tan et al., *EfficientDet: Scalable and Efficient Object Detection*
 
-1. GENIUS: Sketch-based Language Model Pre-training – Biyang Guo et al.
-2. The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies – David E. Shillingford et al.
-3. EfficientDet: Scalable and Efficient Object Detection – Mingxing Tan et al.
+---
 
+💡 **With SketchGenius, creating engaging, sketch-style videos has never been easier!** 🚀
+
+</details>
