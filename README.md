@@ -15,12 +15,6 @@ Perfect for **businesses, educators, and creators** looking to **boost engagemen
 
 ---
 
-## 🧩 Short Description
-
-**🎨 SketchGenius** is an AI-powered tool that turns **text, images, or photos** into **sketch-style animated videos** in minutes. Choose from styles like **🖍️ Crayon, ✏️ Charcoal, 🏫 Chalkboard, and 📐 Blueprint**, add **voiceovers, translations, and royalty-free media**, and create **professional videos** without any design skills. Perfect for **businesses, educators, and creators** who want to **engage audiences, explain ideas, or market products** quickly and affordably. 🚀
-
----
-
 ## 🖼️ Examples
 
 <table>
